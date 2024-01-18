@@ -1,0 +1,70 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Lato', sans-serif;
+}
+body {
+	height: 100%;
+	color: #000;
+	background: #F9FAFF; 
+	line-height: 1;
+	font-family: 'Lato', sans-serif;
+}
+.container {
+	width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 160px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text-select {
+	color: #FF7A50;
+}
+button {
+	font-family: 'Rubik', sans-serif;
+	color: #363853;
+}
+.btn {
+	transition: 0.4s;
+	cursor: pointer;
+}
+.btn:active {
+	transition: 0.3s;
+	transform: scale(0.9);
+}
+.btn:hover {
+	box-shadow: 10px 3px 20px rgba(48, 46, 45, 0.19);
+}
+.radio-btn {
+	display: none;
+}
+.food-slider label,
+.menu-list label {
+	cursor: pointer;
+}
+a {
+	width: inherit;
+}
+
+
+
+
+
+
+
